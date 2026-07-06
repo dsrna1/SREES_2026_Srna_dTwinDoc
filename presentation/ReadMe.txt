@@ -1,0 +1,1 @@
+Vrijeme potrebno za prezentaciju: 8 minuta
