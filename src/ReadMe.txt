@@ -1,0 +1,1 @@
+Ovaj projekat se odnosi isključivo na izradu tehničke i korisničke dokumentacije za dTwin. Shodno prirodi teme, projekat ne sadrži izvorni C++ kod niti CMake konfiguraciju.
