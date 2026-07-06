@@ -1,4 +1,4 @@
-# SREES_2026_Srna_dTwinDoc
+# SREES_2026_Srna_dTwinDokumentacija
 # dTwin Documentation Project
 
 ## Overview
